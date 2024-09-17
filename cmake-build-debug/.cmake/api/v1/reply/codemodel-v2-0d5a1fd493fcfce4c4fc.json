@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.28"
+						"string" : "3.10"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "untitled::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-untitled-Debug-2b0a55842ea13c43839d.json",
+					"jsonFile" : "target-untitled-Debug-474611dade864087f12b.json",
 					"name" : "untitled",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/snipe/OneDrive/Desktop/untitled/cmake-build-debug",
-		"source" : "C:/Users/snipe/OneDrive/Desktop/untitled"
+		"build" : "C:/Users/snipe/OneDrive/Desktop/AlgAnalysis/cmake-build-debug",
+		"source" : "C:/Users/snipe/OneDrive/Desktop/AlgAnalysis"
 	},
 	"version" : 
 	{
